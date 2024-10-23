@@ -63,7 +63,7 @@ public class BaseClass {
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 
 		//for logging
-		logger = LogManager.getLogger("MyStoreV1");
+		logger = LogManager.getLogger("Swaraj");
 		
 		//open url
 		driver.get(url);
