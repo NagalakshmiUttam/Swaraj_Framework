@@ -7,6 +7,7 @@ import java.time.Duration;
 import org.apache.logging.log4j.Logger;
 import org.apache.commons.io.FileUtils;
 import org.apache.logging.log4j.LogManager;
+//import org.apache.logging.log4j.core.Logger;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -63,7 +64,7 @@ public class BaseClass {
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 
 		//for logging
-		logger = LogManager.getLogger("Swaraj");
+		logger = LogManager.getLogger("Swaraj_lease_b2b");
 		
 		//open url
 		driver.get(url);

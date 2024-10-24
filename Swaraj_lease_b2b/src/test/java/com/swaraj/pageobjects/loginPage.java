@@ -29,7 +29,7 @@ public class loginPage {
 		@FindBy(xpath = "//input[@id='password']") 
 		WebElement registeredUsersPwd;
 		
-		@FindBy(id = "SubmitLogin")
+		@FindBy(xpath = "//button[@type='submit']")
 		WebElement submitLogin;
 		
 		
@@ -49,7 +49,7 @@ public class loginPage {
 		}
 
 		
-		public void clickSignIn()
+		public void clickLogIn()
 		{
 			submitLogin.click();
 		}
