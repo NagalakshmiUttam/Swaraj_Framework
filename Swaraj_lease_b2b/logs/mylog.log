@@ -1,12 +1,21 @@
-[INFO ] 2024-10-24 17:40:13.482 [main] Swaraj_lease_b2b - url opened
-[INFO ] 2024-10-24 17:40:13.584 [main] Swaraj_lease_b2b - ***************TestCase Verify Login starts*****************
-[INFO ] 2024-10-24 17:40:15.058 [main] Swaraj_lease_b2b - Clicked on Login link
-[INFO ] 2024-10-24 17:40:15.889 [main] Swaraj_lease_b2b - Entered email address
-[INFO ] 2024-10-24 17:40:16.028 [main] Swaraj_lease_b2b - Entered password
-[INFO ] 2024-10-24 17:40:16.096 [main] Swaraj_lease_b2b - Clicked on login button..
-[INFO ] 2024-10-24 17:40:51.493 [main] Swaraj_lease_b2b - url opened
-[INFO ] 2024-10-24 17:40:51.531 [main] Swaraj_lease_b2b - ***************TestCase Verify Login starts*****************
-[INFO ] 2024-10-24 17:40:54.156 [main] Swaraj_lease_b2b - Clicked on Login link
-[INFO ] 2024-10-24 17:40:54.730 [main] Swaraj_lease_b2b - Entered email address
-[INFO ] 2024-10-24 17:40:54.866 [main] Swaraj_lease_b2b - Entered password
-[INFO ] 2024-10-24 17:40:54.932 [main] Swaraj_lease_b2b - Clicked on login button..
+[INFO ] 2024-10-25 12:20:46.834 [main] Swaraj_lease_b2b - url opened
+[INFO ] 2024-10-25 12:20:47.024 [main] Swaraj_lease_b2b - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-10-25 12:20:48.925 [main] Swaraj_lease_b2b - Clicked on Login link
+[INFO ] 2024-10-25 12:23:31.271 [main] Swaraj_lease_b2b - url opened
+[INFO ] 2024-10-25 12:23:31.337 [main] Swaraj_lease_b2b - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-10-25 12:23:35.678 [main] Swaraj_lease_b2b - Clicked on Login link
+[INFO ] 2024-10-25 12:23:36.304 [main] Swaraj_lease_b2b - Entered email address
+[INFO ] 2024-10-25 12:23:36.491 [main] Swaraj_lease_b2b - Entered password
+[INFO ] 2024-10-25 12:23:36.574 [main] Swaraj_lease_b2b - Clicked on login button..
+[INFO ] 2024-10-25 12:42:21.601 [main] Swaraj_lease_b2b - url opened
+[INFO ] 2024-10-25 12:42:21.769 [main] Swaraj_lease_b2b - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-10-25 12:42:23.117 [main] Swaraj_lease_b2b - Clicked on Login link
+[INFO ] 2024-10-25 12:42:23.694 [main] Swaraj_lease_b2b - Entered email address
+[INFO ] 2024-10-25 12:42:23.904 [main] Swaraj_lease_b2b - Entered password
+[INFO ] 2024-10-25 12:42:24.006 [main] Swaraj_lease_b2b - Clicked on login button..
+[INFO ] 2024-10-25 12:50:18.142 [main] Swaraj_lease_b2b - url opened
+[INFO ] 2024-10-25 12:50:18.495 [main] Swaraj_lease_b2b - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-10-25 12:50:21.405 [main] Swaraj_lease_b2b - Clicked on Login link
+[INFO ] 2024-10-25 12:50:22.834 [main] Swaraj_lease_b2b - Entered email address
+[INFO ] 2024-10-25 12:50:23.295 [main] Swaraj_lease_b2b - Entered password
+[INFO ] 2024-10-25 12:50:23.788 [main] Swaraj_lease_b2b - Clicked on login button..
