@@ -8,8 +8,6 @@ import com.swaraj.pageobjects.welcomePage;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-
-
 public class TC1_WebsiteLoginTest extends BaseClass {
 	
 	@Test
