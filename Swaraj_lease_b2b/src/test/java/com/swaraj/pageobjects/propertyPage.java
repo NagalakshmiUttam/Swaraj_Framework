@@ -80,9 +80,9 @@ public class propertyPage {
 	
 
 	
-	public void clickLogIn()
-	{
-		submitLogin.click();
-	}		
+//	public void clickLogIn()
+//	{
+//		submitLogin.click();
+//	}		
 
 }
