@@ -31,6 +31,8 @@ public class TC1_WebsiteLoginTest extends BaseClass {
 
 		loginpg.clickLogIn();
 		logger.info("Clicked on login button..");
+		
+
 
 
 	}
