@@ -87,6 +87,11 @@ public class propertyPage {
 	{
 		unitDesc_txt.sendKeys(unitDes);
 	}
+	
+	public void enterunitIncPrct_txt(String unitInt) 
+	{
+		unitIncPrct_txt.sendKeys(unitInt);
+	}
 
 	
 
