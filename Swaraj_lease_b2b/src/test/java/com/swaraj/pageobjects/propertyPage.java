@@ -25,7 +25,7 @@ public class propertyPage {
 	WebElement addproperty_btn;
 	
 	@FindBy(xpath = "//input[@id='propertyName']") 
-	WebElement propName_txt;
+	WebElement propName_txt1;
 	@FindBy(xpath = "//textarea[@id='propertyAddress']") 
 	WebElement propAdds_txt;
 	@FindBy(xpath = "//span[normalize-space()='Select Type']") 
@@ -51,7 +51,7 @@ public class propertyPage {
 	
 	public void enterPropName(String propName) 
 	{
-		propName_txt.sendKeys(propName);
+		propName_txt1.sendKeys(propName);
 	}
 
 
@@ -78,11 +78,13 @@ public class propertyPage {
 		obj3.selectByVisibleText(text);
 	}
 	
+	public void enterunitName_txt(String unitName) 
+	{
+		unitName_txt.sendKeys(unitName);
+	}
+	
 
 	
-//	public void clickLogIn()
-//	{
-//		submitLogin.click();
-//	}		
+
 
 }
